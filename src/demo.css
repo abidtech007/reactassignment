@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+.invitation h1
+{
+    color:green;background-image:url('D:\assignment\reactweb\images\icon.png');height:76px;
+}
+.spanfirst
+{
+    coloR:red;    
+}
+body
+{
+    background-image:url('D:\assignment\reactweb\images\background.jpg');
+}
+p
+{
+    font-family: 'Bungee Spice', sans-serif;
+}
